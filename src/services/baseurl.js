@@ -1,1 +1,1 @@
-export const base_url="https://athleto-backend-2.onrender.com"
+export const base_url="https://athleto-backend-3.onrender.com"
