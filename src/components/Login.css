@@ -1,0 +1,32 @@
+h2{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: "Impact"
+}
+.custom-link {
+    text-decoration: none; /* Remove underline */
+    margin-top: 20px; /* Top margin */
+    color: black; /* Primary blue color */
+    font-weight: bold; /* Bold text */
+    /* font-size: 1.2rem; Slightly larger font size */
+    display: inline-block; /* Ensures margin-top works properly */
+    transition: color 0.3s ease, transform 0.2s ease; 
+    /* Smooth hover effects */
+}
+
+.custom-link:hover {
+    color: #0056b3; /* Darker blue on hover */
+    transform: translateY(-2px); /* Slight upward movement on hover */
+}
+#fg{
+    text-decoration: none;
+    color: red;
+    text-align: end;
+    font-size: small;
+    transition: color 0.3s ease;
+
+}
+#fg:hover{
+    color: black;
+
+}

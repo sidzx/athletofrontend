@@ -1,0 +1,29 @@
+.offcanvas {
+    width: 250px;
+}
+
+.offcanvas-header {
+    border-bottom: 1px solid #444;
+}
+
+.offcanvas-body .nav-link {
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    font-family: "Impact";
+    letter-spacing: 1px;
+    font-size: larger;
+}
+
+.offcanvas-body .nav-link:hover {
+    background-color: #222;
+}
+.btn{
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+     font-family: "Impact"
+   
+}
